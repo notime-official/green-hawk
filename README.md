@@ -1,14 +1,19 @@
 ![image](https://user-images.githubusercontent.com/92361680/197824476-464d420d-26a6-4df5-aef3-99214fac1388.png)
 
 
-# {Project Name} - Make a Ton 5.0
-Tell us about your project here
+# Growi- Make a Ton 5.0
+An interactive app to educate about Stock Market
+Low Risk and low Capital needed
+Safer
+Users can enter the prize pool and assume the price by  analysis
+the user can get the best insights after the pool closes and a good learning  is done
+
 
 ## Team Members
-[1.Team Member 1](enter_github_id_here)   
-[2.Team Member 2](enter_github_id_here)   
-[3.Team Member 3](enter_github_id_here)   
-[4.Team Member 4](enter_github_id_here)   
+[1.Najid Navas](naaji-navas)   
+[2.Nandu Kannan M ](Nandu-kannan)   
+[3.Salman Faris ](salmanfaris687)   
+[4.Muhammed Musthafa Ameen](ameennm)   
 
 ## Link to Project
 [Embed the live link of project](live_link)
